@@ -1,6 +1,6 @@
 # Deploy and Host Forgejo on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/TEMPLATE_ID)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/forgejo-1)
 
 Forgejo is a self-hosted, lightweight Git service — a community-driven fork of Gitea. It provides Git repository hosting, issue tracking, pull requests, CI/CD pipelines, and a full web interface for collaborative software development.
 
